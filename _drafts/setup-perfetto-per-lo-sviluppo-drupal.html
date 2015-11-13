@@ -1,0 +1,52 @@
+---
+layout: post
+title: Setup perfetto per lo sviluppo Drupal
+date: 
+type: post
+published: false
+status: draft
+categories:
+- Senza categoria
+tags: []
+meta:
+  _edit_last: '1'
+author:
+  login: admin
+  email: mainardistefano@gmail.com
+  display_name: Stefano Mainardi
+  first_name: Stefano
+  last_name: Mainardi
+---
+<p>Da qualche giorno ho dovuto pensionare il vecchio Macbook pro 17 in favore di un nuovo Macbook Air. Ho deciso di non ripristinare da un backup di Time Machine per avere un sistema "pulito" da cui ripartire.</p>
+<p>Ho dovuto quindi ripristinare l'ambiente di sviluppo locale, questa volta seguendo qualche best-practice ed evitando tools come "MAMP" et similia, tante volte scelti per velocità. Visto che di tanto in tanto mi capita di dover mettere in piedi un sistema da zero, ho deciso di condividere il mio setup che sicuramente servirà come referenza a me e chi si troverà nelle stesse condizioni.</p>
+<p>Nota: questa mini guida è stata testata su OSX 10.9.4, tecnicamente dovrebbe funzionare anche su versioni precedenti</p>
+<h2>1. Installiamo le Command Line Tools</h2>
+<p>Questo è lo step primario, gli altri tool che andremo ad utilizzare le richiederanno come dipendenza.</p>
+<p>Finalmente su Mavericks non c'è più bisogno di installare l'intero pesantissimo pacchetto di Xcode, ma abbiamo la possibilità di installare solamente gli strumenti di sviluppo CLI.</p>
+<p>Apriamo dunque il terminale (vi consiglio <a href="http://iterm2.com/" target="_blank">iTerm2</a>):</p>
+<p><code>xcode-select --install</code></p>
+<p>Verrà dunque mostrata una popup per l'installazione del pacchetto:</p>
+<p><a href="http://www.stefanomainardi.com/wp-content/uploads/2014/08/Screen-Shot-2013-06-27-at-11.38.59-am.png"><img class="alignnone size-full wp-image-656" src="{{ site.baseurl }}/assets/Screen-Shot-2013-06-27-at-11.38.59-am.png" alt="Screen-Shot-2013-06-27-at-11.38.59-am" width="477" height="198" /></a></p>
+<p>Procediamo, dopo qualche minuto dovrebbe aver scaricato ed installato tutto il necessario</p>
+<h2>2. Installiamo oh-my-zsh</h2>
+<p>Zsh è un replacement per il classico bash, <a href="http://ohmyz.sh/" target="_blank">oh-my-zsh</a> è un framework per gestirne la configurazione in maniera semplice.</p>
+<p>Io lo installo ovunque posso, e vi consiglio di fare altrettanto.</p>
+<p>L'installazione è davvero semplicissima, lanciamo da terminale:</p>
+<p><code><br />
+curl -L http://install.ohmyz.sh | sh<br />
+</code></p>
+<p>in qualche minuto il setup sarà completato. La configurazione la troverete nella home dell'utente: <code>~/.zshrc</code></p>
+<p>Potete personalizzare la vostra esperienza con diversi <a href="https://github.com/robbyrussell/oh-my-zsh/wiki/themes" target="_blank">temi</a> o plugins, nella documentazione su Github troverete tutto il materiale per approfondire.</p>
+<p>La configurazione attuale è la seguente:</p>
+<p><a href="http://www.stefanomainardi.com/wp-content/uploads/2014/08/Screen-Shot-2014-08-17-at-19.51.55.png"><img class="alignnone size-full wp-image-658" src="{{ site.baseurl }}/assets/Screen-Shot-2014-08-17-at-19.51.55.png" alt="Screen Shot 2014-08-17 at 19.51.55" width="764" height="540" /></a></p>
+<h2>2. Installiamo Homebrew</h2>
+<p><a href="http://brew.sh/">Homebrew</a>, se non lo utilizzate forse è il momento di iniziare a farlo. Si tratta sostanzialmente di un package manager (degno di questo nome) per OSX. Se utilizzate Linux avete già capito di cosa sto parlando.</p>
+<p>Per installarlo è davvero semplicissimo, diamo da terminale:</p>
+<p><code>ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"<br />
+</code></p>
+<p>Dopo qualche minuto se tutto è andato liscio avremo come risposta un "<em>Your system is ready to brew</em>".</p>
+<p>Per concludere aggiorneremo i repository:</p>
+<p><code> brew update<br />
+brew upgrade<br />
+</code></p>
+<p>Il setup ora è completo ed è pronto per essere utilizzato.</p>

@@ -1,0 +1,45 @@
+---
+layout: page
+title: FORM ELEMENTS
+date: 
+type: page
+published: false
+status: draft
+categories: []
+tags: []
+meta:
+  _wp_page_template: default
+  _edit_last: '1'
+author:
+  login: admin
+  email: mainardistefano@gmail.com
+  display_name: Stefano Mainardi
+  first_name: Stefano
+  last_name: Mainardi
+---
+<p>Here is all forms elements cross browser styled.</p>
+<form action="#" method="post"><label for="your-name">Your Name</label><input id="your-name" type="text" name="your-name" /></p>
+<p><label for="your-email">Your Email</label><input id="your-email" type="text" name="your-email" /></p>
+<p><label for="subject">Subject</label><input id="subject" type="text" name="subject" /></p>
+<p><label for="budget">Budget</label><br />
+<select id="budget" name="budget">
+<option value="1000$">1000$</option>
+<option value="2000$">2000$</option>
+<option value="3000$">3000$</option>
+<option value="5000$+">5000$+</option>
+</select>
+<p><label for="attach-file">Attach a file</label><input id="attach-file" type="file" name="attach-file" /></p>
+<p><label for="budgetm">Budget Multi</label><br />
+<select id="budgetm" multiple="multiple" name="budgetm">
+<option value="1000$">1000$</option>
+<option value="2000$">2000$</option>
+<option value="3000$">3000$</option>
+<option value="5000$+">5000$+</option>
+</select>
+<p><label for="your-message">Your Message</label><textarea id="your-message" name="your-message"></textarea></p>
+<p><label>Tech</label></p>
+<p><label class="inline-label"> <input type="checkbox" name="gender[]" value="male" />HTML5</label><label class="inline-label"> <input type="checkbox" name="gender[]" value="female" />jQuery</label><label class="inline-label"> <input type="checkbox" name="gender[]" value="female" />Wordpress</label></p>
+<p><label>Gender</label></p>
+<p><label class="inline-label"> <input type="radio" name="radio" value="radio-1" />male</label><label class="inline-label"> <input type="radio" name="radio" value="radio-2" />female</label></p>
+<p><input type="submit" value="Send it" /></p>
+</form>
