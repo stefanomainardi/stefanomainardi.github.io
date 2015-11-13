@@ -21,7 +21,7 @@ Davvero eccezionale, seguirà a questo post una breve recensione.
 
 Nel frattempo [provatelo][2].
 
-p.s: Sono quasi tornato. <img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+p.s: Sono quasi tornato. :-)
 
  [1]: http://static.flickr.com/49/170569143_6643dbad98_o.jpg
  [2]: http://www.flock.com/download

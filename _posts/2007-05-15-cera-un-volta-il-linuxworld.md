@@ -46,7 +46,7 @@ Ah bhe, se ci sono stati lo stesso numerosi iscritti allora la situazione cambia
 
 Bhe, forse è arrivato il momento di iniziare a pensare di **organizzare un evento comunitario**, un evento di cui il pubblico interessato ne sia padrone. In effetti ci stiamo già organizzando in zona, a brevissimo vi faccio avere ulteriori notizie.
 
-Nel frattempo preparate i costumi (capirete il perchè tra poco!) <img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Nel frattempo preparate i costumi (capirete il perchè tra poco!) :-)
 
 Ste
 

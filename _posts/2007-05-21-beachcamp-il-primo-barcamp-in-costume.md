@@ -37,7 +37,7 @@ La location è splendida, trattasi di uno dei più rinomati Stabilimenti Balnear
 
 Nella location avremo a disposizione (esclusiva) due zone:
 
-*   **Zona Beach**: Nelle vicinanze del bagnoasciuga (molto ampia), con al centro un gazebo 4&#215;4 che servirà da Totem e punto di riferimento per tutti i partecipanti, e dove credo verrà passata gran parte delle giornata <img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+*   **Zona Beach**: Nelle vicinanze del bagnoasciuga (molto ampia), con al centro un gazebo 4&#215;4 che servirà da Totem e punto di riferimento per tutti i partecipanti, e dove credo verrà passata gran parte delle giornata :-)
 *   **Zona** **reFresh: **Zona coperta antistante la spiaggia dove verrà offerto il rinfresco e verranno fatti i mini-talk (ndr: non vedo l&#8217;ora di sentire &#8220;*Cocktails Estivi 1.0, preparazione e&#8230; degustazione!*&#8221; del mitico [Giovy][8])
 
 A giorni, caricherò le foto della location direttamente sul gruppo Flickr che puoi trovare [qui][9], per ora è ancora vuoto ma ti invito a tenerlo d&#8217;occhio frequentemente.
@@ -48,7 +48,7 @@ A giorni, caricherò le foto della location direttamente sul gruppo Flickr che p
 
 Personalmente sto riponendo anima e forze per l&#8217;organizzazione, siamo partiti in netto ritardo ed abbiamo bisogno di recuperare tappe, e siamo anche alla ricerca di qualche sponsor che possa aiutarci, quindi se sei interessato puoi contattarmi sin da subito al mio indirizzo di posta: **mainardistefano[at]gmail.com**
 
-Per ora mi sembra di averti annoiato già abbastanza,** cosa aspetti quindi a preparare il costume, racchettoni e secchiello <img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /> e iscriverti al BeachCamp? **<img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> Ti aspettiamo! **Ah, mi raccomanda: Passaparola!**
+Per ora mi sembra di averti annoiato già abbastanza,** cosa aspetti quindi a preparare il costume, racchettoni e secchiello <img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /> e iscriverti al BeachCamp? **:-) Ti aspettiamo! **Ah, mi raccomanda: Passaparola!**
 
  [1]: http://www.barcamp.org/BeachCamp
  [2]: http://www.barcamp.org

@@ -15,7 +15,7 @@ categories:
 
 Prometto che a breve scrivo due righe sul [fantastico evento][1] che la comunità PHP italiana ha vissuto. Nel frattempo se vi va lasciatemi qualche feedback sul talk che noi di [Twinbit][2] abbiamo tenuto.
 
-Grazie <img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" />
+Grazie :-)
 
  [1]: http://phpday.it
  [2]: http://twinbit.it

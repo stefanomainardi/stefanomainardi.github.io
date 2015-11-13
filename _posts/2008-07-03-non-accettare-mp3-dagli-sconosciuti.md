@@ -17,7 +17,7 @@ tags:
   - droga
   - mp3
 ---
-Da oggi fuori dalle scuole si <a href="http://forum.grasscity.com/general/236709-i-doser.html" target="_blank">spacceranno</a> MP3 <img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" />
+Da oggi fuori dalle scuole si <a href="http://forum.grasscity.com/general/236709-i-doser.html" target="_blank">spacceranno</a> MP3 :-)
 
 Per chi non avesse seguito l&#8217;avvincente vicenda degli mp3 drogati, leggetevi il <a href="http://attivissimo.blogspot.com/2008/07/mp3-droganti.html" target="_blank">bel pezzo</a> di Paolo Attivissimo
 

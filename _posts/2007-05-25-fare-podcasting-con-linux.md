@@ -35,7 +35,7 @@ Mi vorrei soffermare però sul secondo software che ti ho consigliato, **Jokoshe
 
 Si definisce come un semplice editor multi-traccia, lo è a tutti gli effetti, e nella sua ultima release svolge egregiamente il suo lavoro.
 
-Le qualità di questo software sono nell&#8217;interfaccia: ***leggera***, ***semplice*** e ***intuitiva*** (ed anche molto gradevole da vedere) e nelle funzionalità: ***poche ma buone*** <img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Le qualità di questo software sono nell&#8217;interfaccia: ***leggera***, ***semplice*** e ***intuitiva*** (ed anche molto gradevole da vedere) e nelle funzionalità: ***poche ma buone*** :-)
 
 <p style="text-align: center" align="left">
   <img src="http://www.jokosher.org/siteimages/jokosher0.9.png" height="327" width="400" />

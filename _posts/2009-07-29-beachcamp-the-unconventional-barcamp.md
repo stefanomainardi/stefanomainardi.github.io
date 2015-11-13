@@ -24,7 +24,7 @@ Dopo più di due anni dal primo [glorioso evento][1] (*lasciatemelo credere*), a
 
 Il format sarà più o meno quello di due anni fa, avremo uno splendido stabilimento (grazie **Lido Venus**), un area a noi riservata, dei tavolini, un monitor e dei microfoni per fare presentazioni. Un modo informale per fare networking, parlare di tecnologia e divertirsi.
 
-Il pranzo sarà offerto dalla spelndida fattoria Molisana : <a href="http://parcodeibuoi.com" target="_blank">Il parco dei buoi</a> , mentre per la cena organizzeremo una grigliata in spiaggia. Davvero vuoi mancare? <img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Il pranzo sarà offerto dalla spelndida fattoria Molisana : <a href="http://parcodeibuoi.com" target="_blank">Il parco dei buoi</a> , mentre per la cena organizzeremo una grigliata in spiaggia. Davvero vuoi mancare? :-)
 
 **Vi aspetto tutti, ci sarà da divertirsi! **
 

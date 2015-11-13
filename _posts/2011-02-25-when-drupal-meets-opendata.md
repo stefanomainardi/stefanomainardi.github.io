@@ -22,7 +22,7 @@ Anche quest&#8217;anno saremo relatori al [Phpday 2011][1] di Verona. Come di co
 
 Sarà un momento di discussione e approfondimento su un tema che sta diventando sempre più importante e fondamentale, e ne sentiremo ancora parlare per molto. Oltre a portare case histories di successo, parleremo di quali possibilità ci offre oggi Drupal per lavorare in questo ambito.
 
-Vi aspettiamo numerosi <img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Vi aspettiamo numerosi :-)
 
 <div>
   <span style="color: #0000ee; -webkit-text-decorations-in-effect: underline;"><br /> </span>

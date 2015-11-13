@@ -18,4 +18,4 @@ tags:
 ---
 <a href="http://www.flickr.com/photos/mainardi/2896234754/" target="_blank"><img src="http://farm4.static.flickr.com/3009/2896234754_2e6e6bd38f.jpg" alt="Drupal Cake" height="333" width="500" /></a><a href="http://www.flickr.com/photos/mainardi/2896234754/" target="_blank"></a>
 
-Vi ricorda qualcosa la torta? <img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Vi ricorda qualcosa la torta? :-)

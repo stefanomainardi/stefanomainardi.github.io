@@ -157,7 +157,7 @@ Le aspettative sono molte, e sono certo che poche saranno tradite. Direi che que
 
 Si esce finalmente dalla cosiddetta sindrome del **[Not invented here][30]** per passare ad un più sano e corretto &#8220;**Proudly Found Elsewhere**&#8220;. Personalmente ho apprezzato molto l&#8217;apertura verso progetti esterni e l&#8217;apertura alla contaminazione di mondi diversi e con altre regole rispetto a quelli a cui si è abituati. Questo approccio sta migliorando la sensibilità della community di sviluppatori, e la qualità del prodotto, non solo di Drupal ma anche dei progetti che sono stati abbracciati. La vera espressione del modello Open Source.
 
-Proprio oggi mi è stato chiesto un parere sulla comunità Drupal, in generale sul progetto. Ci ho riflettuto un attimo e poi senza pensarci troppo mi è venuto da dire che **è uno degli esempi migliori di progetto Open Source**, direi paragonabile al kernel Linux in termini di governance e qualità.  Per chi mi ha chiesto come mai utilizzo WordPress e non Drupal su questo blog, risponderò anche a questo quesito <img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" />
+Proprio oggi mi è stato chiesto un parere sulla comunità Drupal, in generale sul progetto. Ci ho riflettuto un attimo e poi senza pensarci troppo mi è venuto da dire che **è uno degli esempi migliori di progetto Open Source**, direi paragonabile al kernel Linux in termini di governance e qualità.  Per chi mi ha chiesto come mai utilizzo WordPress e non Drupal su questo blog, risponderò anche a questo quesito :-)
 
  [1]: http://www.stefanomainardi.com/wp-content/uploads/2014/01/Drupal8Tablet.jpg
  [2]: https://drupal.org/project/spark

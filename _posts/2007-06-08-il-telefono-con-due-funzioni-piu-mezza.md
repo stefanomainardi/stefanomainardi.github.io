@@ -35,7 +35,7 @@ Dopo averlo avuto tra le mani ho pensato che questa è la potenza della rete e d
 
 Le grandi aziende, dovrebbero iniziare a tener conto **davvero** di questo aspetto, allo stesso modo con cui Nokia sta facendo girare gli N95 per la blogosfera da [un iniziativa][3] di [Zeno][4] [[Digital-pr][5]] (ah, se ve ne avanzasse qualcuno lo provo con piacere)
 
-ps: per quanto riguarda [le crocs][6] però non mi ha [convinto][7], per ora&#8230;non si mai insomma <img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+ps: per quanto riguarda [le crocs][6] però non mi ha [convinto][7], per ora&#8230;non si mai insomma :-)
 
  [1]: http://www.flickr.com/photos/mainardi/535799718/
  [2]: http://www.andreabeggi.net

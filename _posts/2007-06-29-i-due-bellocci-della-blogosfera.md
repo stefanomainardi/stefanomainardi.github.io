@@ -30,7 +30,7 @@ Bene, io sono stato messo in sfida con [Luca Moretto][3] entrambi definiti come 
 
 > ** I due bellocci della blogosfera, dicono. Se siete cessi senza speranza fatene fuori uno, vi sentirete meglio.**
 
-Luca [è impaurito][4] (e fa bene![*][5]) ed ha iniziato a trovarsi qualche sostenitrice, anzi più di una leggendo [il messaggio di Floria][6], dicono che io non abbia un look rassicurante <img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> (mi sa che hanno l&#8217;occhio lungo le signorine)
+Luca [è impaurito][4] (e fa bene![*][5]) ed ha iniziato a trovarsi qualche sostenitrice, anzi più di una leggendo [il messaggio di Floria][6], dicono che io non abbia un look rassicurante :-) (mi sa che hanno l&#8217;occhio lungo le signorine)
 
 Cosa dire di più, gentil donzelle sapete chi votare **Domenica 22 Luglio**! (con la speranza che avrete di sicuro qualcosa di meglio da fare piuttosto che stare li a votare noi)
 

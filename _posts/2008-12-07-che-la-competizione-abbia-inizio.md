@@ -35,7 +35,7 @@ Le iscrizioni per partecipare sono aperte dall&#8217;8 (quindi domani) fino al 2
 
 Con l&#8217;occasione faccio i **complimenti a Cristiano** per aver messo in piedi il concorso, e tutta la struttura tecnica totalmente appoggiata su WordPress, votazioni da backend incluse. Davvero un fantastico lavoro, ma **non ne avevo dubbi**.
 
-All&#8217;inizio avevo preso in carico io la creazione del sito (*in Drupal, of course*), ma per motivi di tempo ho dovuto abbandonare e passare la palla a Cristiano, che in velocità lampo ha messo in piedi il tutto allo stato dell&#8217;arte. Mi chiedo quante notti insonni ha passato, e quanti punti moglie ha perso&#8230;vero Cristiano? <img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+All&#8217;inizio avevo preso in carico io la creazione del sito (*in Drupal, of course*), ma per motivi di tempo ho dovuto abbandonare e passare la palla a Cristiano, che in velocità lampo ha messo in piedi il tutto allo stato dell&#8217;arte. Mi chiedo quante notti insonni ha passato, e quanti punti moglie ha perso&#8230;vero Cristiano? :-)
 
 **Spargete la voce, un po di sana competizione non può far altro che bene. **
 

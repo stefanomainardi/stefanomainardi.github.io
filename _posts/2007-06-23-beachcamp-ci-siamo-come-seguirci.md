@@ -34,7 +34,7 @@ Nella location non avremo connessioni stellari, ma cercheremo di fare il possibi
 
 Cosa dire di più?
 
-Ci risentiamo e ci rileggiamo fra qualche giorno <img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Ci risentiamo e ci rileggiamo fra qualche giorno :-)
 
 *ps: Una piccola nota di chiusura. Dopo questo evento spero di non avere più a che fare con grafici, serigrafi et similia per tutto il resto della mia vita.  *
 

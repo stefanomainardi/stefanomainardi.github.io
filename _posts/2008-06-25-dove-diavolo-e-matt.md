@@ -25,4 +25,4 @@ Scusate la penosa traduzione, dedico questo video alla lungimirante agenzia di m
 
 **Imparate da questo**: autoprodotto, divertente, nessuna mail penosa e piena di complimenti mi è stata recapitata sulla casella per pubblicarlo, e nessuna mail è stata mandata a Google per farlo arrivare nei video più visti di Youtube. Capito quanto è strano il web? <img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" />
 
-Ed io, che si sappia, adoro quest&#8217;uomo <a href="http://www.wherethehellismatt.com/" target="_blank">qui</a> <img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Ed io, che si sappia, adoro quest&#8217;uomo <a href="http://www.wherethehellismatt.com/" target="_blank">qui</a> :-)

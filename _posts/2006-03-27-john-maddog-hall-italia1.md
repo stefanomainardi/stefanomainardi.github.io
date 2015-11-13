@@ -23,7 +23,7 @@ Quest&#8217;uomo è stata la migliore conoscenza che abbiamo fatto al Linux Worl
 
 Con lui abbiamo trascorso tutti i **dopo** fiera, al Pub in zona S.Donato MIlanese, è stato al nostro stand, ha distribuito le nostre brochure e ci ha aiutato a smontare lo stand la sera prima di partire.
 
-Insomma una persona fantastica, vi allego un piccolo video fatto con la nostra macchina fotografica, l&#8217;alcol fa questo ed altro. <img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Insomma una persona fantastica, vi allego un piccolo video fatto con la nostra macchina fotografica, l&#8217;alcol fa questo ed altro. :-)
 
 Che dite, se lo mandiamo ad Italia1, lo manderanno in onda?
 

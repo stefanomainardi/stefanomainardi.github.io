@@ -15,7 +15,7 @@ categories:
 ---
 Pare che in Italia ci sia qualcuno che tra i tanti isterismi politici **pensi e faccia** qualcosa che sia utile per le nostre tasche*****, **forse**.
 
-Da qualche giorno i deputati potranno su **esplicita richiesta **(dubito fortemente questi grandi afflussi) farsi installare Linux sul proprio PC, risparmiando in questo modo soldi in licenze per sistemi operativi proprietari, dice Grillini : &#8220;**I deputati hanno imparato ad usare il computer**&#8220;, molto probabilmente era in vena di battute <img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Da qualche giorno i deputati potranno su **esplicita richiesta **(dubito fortemente questi grandi afflussi) farsi installare Linux sul proprio PC, risparmiando in questo modo soldi in licenze per sistemi operativi proprietari, dice Grillini : &#8220;**I deputati hanno imparato ad usare il computer**&#8220;, molto probabilmente era in vena di battute :-)
 
 Il piano prevede la sostituzione graduale di tutte le macchine e quindi di tutta l&#8217;infrastruttura IT di Montecitorio, entro quando e in che modo purtroppo non è dato sapersi, pare che se l&#8217;operazione andrà in porto ci sarebbe un risparmio annuo di circa **tre millioni euro**. Microsoft Italia risponde dicendo che si tratta solamente di un operazione che riguarda solamente alcune delle macchine (**ah ecco**), ma che apprezzano la scelta a favore del pluralismo informatico (**che dite avranno anche brindato al pluralismo dopo la notizia?**)
 

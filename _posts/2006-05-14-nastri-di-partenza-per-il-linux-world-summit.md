@@ -44,7 +44,7 @@ Abbiamo preparato tutto il &#8220;gadgettame&#8221; del caso, quindi **manifesti
 
 Insomma ce l&#8217;abbiamo messa tutta, ora speriamo in un forte riscontro della comunità.
 
-Spero di riuscire a districarmi dagli impegni e di fare un post dal <span style="font-style: italic">loco</span> <img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" />
+Spero di riuscire a districarmi dagli impegni e di fare un post dal <span style="font-style: italic">loco</span> :-)
 
 Mi faccio tanti Auguri di una buona riuscita, sperando di fare qualche ora di sonno per allentare almeno un pò la tensione.
 

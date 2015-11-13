@@ -26,7 +26,7 @@ Per come la vedo io ultimamente il blog è un luogo dove c**onversare con i prop
 
 L&#8217;unico tassello che mi manca per sentirmi **pienamente soddisfatto** del mio operato è aumentare la **frequenza dei post**, cosa che difficilmente mi riuscirà vista la continua e congenita *scarsità di tempo*.
 
-Senza dilungarmi, **tu cosa ne pensi?** Da queste parti si cercano pareri, ogni *consiglio/offesa/critica/lode* è ben accetta. Grazie <img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Senza dilungarmi, **tu cosa ne pensi?** Da queste parti si cercano pareri, ogni *consiglio/offesa/critica/lode* è ben accetta. Grazie :-)
 
  [1]: http://www.stefanomainardi.com/2007/10/07/stiamo-lavorando-per-voi/
  [2]: http://www.stefanomainardi.com/category/my-life/

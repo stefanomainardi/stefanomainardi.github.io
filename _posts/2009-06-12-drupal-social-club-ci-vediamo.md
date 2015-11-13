@@ -24,7 +24,7 @@ Insomma, una fantastica occasione per far incontrare due mondi, due visioni e fa
 
 L&#8217;evento è strutturato in maniera **molto informale** per  favorire il lato sociale dell&#8217;evento, non c&#8217;è bisogno quindi di grandi presentazioni, per questo utlizzeremo il format dei <a href="http://en.wikipedia.org/wiki/Lightning_Talk" target="_blank">lightning talk</a>,  e demo in live coding in ufficio della durata di 10 minuti ciascuno.
 
-L&#8217;evento inizierà 18.45 negli uffici di Mikamai per poi continuare alle 20.30 con un aperitivo <a onclick="javascript:pageTracker._trackPageview('/outbound/article/milano.tonight.eu');" href="http://milano.tonight.eu/aperitivo_happy_hour/blender_bar">al Blender</a>, non puoi mancare! <img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+L&#8217;evento inizierà 18.45 negli uffici di Mikamai per poi continuare alle 20.30 con un aperitivo <a onclick="javascript:pageTracker._trackPageview('/outbound/article/milano.tonight.eu');" href="http://milano.tonight.eu/aperitivo_happy_hour/blender_bar">al Blender</a>, non puoi mancare! :-)
 
 Io e <a href="http://paolomainardi.com" target="_blank">Paolo</a> riproniamo in versione *ridotta e sintetica* il talk portato al Phpday sullo <a href="http://www.slideshare.net/twinbit/sviluppare-applicazioni-facebook-utilizzando-drupal-1448448" target="_blank">sviluppo di applicazioni Facebook</a> utilizzando Drupal, mentre <a href="http://tempe.st" target="_blank">Giovanni</a> ci spiegherà come fare **deploy di applicazioni drupal utilizzando <a href="http://www.capify.org/" target="_blank">Capistrano</a>** .
 

@@ -21,7 +21,7 @@ btc_comment_summary:
 categories:
   - blogosfera
 ---
-<img src="http://www.blogday.org/images/badge_green.gif" align="left" height="130" width="155" />L&#8217;idea mi piace, visto che l&#8217;ho saltata a pie pari l&#8217;anno scorso non volevo farlo anche quest&#8217;anno, ed ecco che provo a recuperare la situazione segnalando i cinque blog che vorrei farvi conoscere e che sono mie letture quotidiane. E&#8217; vero, sono in ritardo di qualche ora, ma sono certo che non nessuno se la prenderà, infondo i link fanno sempre piacere a tutti, non è vero [Gioxx][1]? <img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+<img src="http://www.blogday.org/images/badge_green.gif" align="left" height="130" width="155" />L&#8217;idea mi piace, visto che l&#8217;ho saltata a pie pari l&#8217;anno scorso non volevo farlo anche quest&#8217;anno, ed ecco che provo a recuperare la situazione segnalando i cinque blog che vorrei farvi conoscere e che sono mie letture quotidiane. E&#8217; vero, sono in ritardo di qualche ora, ma sono certo che non nessuno se la prenderà, infondo i link fanno sempre piacere a tutti, non è vero [Gioxx][1]? :-)
 
 1.  [Paolo Mainardi][2] &#8211; Il mio caro fratellino, un geek non da poco. Ha aperto e chiuso il blog senza scrivere nulla per quasi un anno, ora sembra essersi convinto delle potenzialità di questo strumento e sta in silenzio creandosi la sua cerchia di lettori.
 2.  [Sarkiapone][3] &#8211; Un amico, con mille potenzialità da poco entrato per forza di cose nell&#8217;era del web 2.0. La forza c&#8217;è, la simpatia anche, ora deve solo iniziare ad avere ritmo e scrivere di più

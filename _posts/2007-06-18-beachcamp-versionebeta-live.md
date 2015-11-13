@@ -24,7 +24,7 @@ Io personalmente interverrò per parlare del [BeachCamp][3], ma si parlerà di B
 
 Ciao!!
 
-*ps: E&#8217; la mia prima esperienza in una radio di questo livello, quindi abbiate venia se sentirete nella mia voce un pizzico di emozione <img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> *
+*ps: E&#8217; la mia prima esperienza in una radio di questo livello, quindi abbiate venia se sentirete nella mia voce un pizzico di emozione :-) *
 
  [1]: http://koolinus.net/blog/
  [2]: http://www.radio.rai.it/radio2/versionebeta/

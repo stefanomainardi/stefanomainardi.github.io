@@ -28,6 +28,6 @@ FriendFeed è leggero. Privo di fronzoli. Fa solo quello che deve fare. Si model
 
 Per il resto **è perfetto**. E&#8217; l&#8217;unica applicazione web 2.0 che ritengo utile dopo l&#8217;attacco dei cloni degli ultimi anni.
 
-Alla fine, dopo tutto, l&#8217;equazione **Less is more** ha sempre il suo perchè <img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Alla fine, dopo tutto, l&#8217;equazione **Less is more** ha sempre il suo perchè :-)
 
 Io <a href="http://www.friendfeed.com/stefanomainardi" target="_blank">sono qui,</a> magari <a href="https://friendfeed.com/account/create" target="_blank">iscriviti</a> e provalo anche tu e dimmi cosa ne pensi.

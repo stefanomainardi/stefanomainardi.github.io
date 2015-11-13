@@ -36,7 +36,7 @@ In realtà non sono solo le community ad essere cambiate. In generale l&#8217;hy
 
 Mi chiedo dunque : che valore portano oggi i portali help-desk? hanno ancora senso di esistere?
 
-Per il futuro di ILDN, abbiamo diversi progetti in cantiere, è un periodo di fermento, di novità, ed è meglio sfruttarlo in pieno <img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> Se sei un linux user, e ti piacerebbe partecipare a ILDN, sei il benvenuto, ti aspettiamo!
+Per il futuro di ILDN, abbiamo diversi progetti in cantiere, è un periodo di fermento, di novità, ed è meglio sfruttarlo in pieno :-) Se sei un linux user, e ti piacerebbe partecipare a ILDN, sei il benvenuto, ti aspettiamo!
 
  [1]: http://www.stefanomainardi.com/wp-content/uploads/2010/12/2726967657_04a6046afa_z.jpg
  [2]: http://www.stefanomainardi.com/wp-content/uploads/2010/12/pinguini1.png

@@ -27,7 +27,7 @@ La sesssione spero sia alimentata dalle vostre domande in diretta, per ora ho al
 
 Se la cosa avrà successo, cercheremo di ripeterla e perchè no allargare la *discussione* anche in altri campi.
 
-*ps: non vi spaventate se andando sulla pagina vedrete il mio faccione, significa che sto facendo prove tecniche di streaming* <img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+*ps: non vi spaventate se andando sulla pagina vedrete il mio faccione, significa che sto facendo prove tecniche di streaming* :-)
 
  [1]: http://www.ardour.org
  [2]: http://www.stefanomainardi.com/livetv

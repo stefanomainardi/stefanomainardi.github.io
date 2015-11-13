@@ -34,7 +34,7 @@ Pare che la &#8220;**scarpetta da infermiere 2.0**&#8221; non sia una mia invenz
   <img src="http://farm1.static.flickr.com/209/524811572_f839fbabed.jpg?v=0" /><br /> (<em>sarà questo il look adatto per indossarle?</em>)
 </p>
 
-Evviva le nuove mode, anche quelle che non capisco. Non me ne vogliate ma proprio non mi piacciono <img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Evviva le nuove mode, anche quelle che non capisco. Non me ne vogliate ma proprio non mi piacciono :-)
 
  [1]: http://www.crocs.com/home.jsp
  [2]: http://www.andreabeggi.net

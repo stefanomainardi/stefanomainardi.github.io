@@ -58,7 +58,7 @@ Va ovviamente utilizzata la forma di inserimento di cui abbiamo parlato prima.
 
 ### Conclusioni
 
-Come vedete Google è **una continua valanga di nuove features**, quasi impossibile stargli dietro, che rendono sempre più produttiva la nostra vita sul web. Se non lo seguite, vi consiglio di aggiungere al vostro feed reader [Blogoscoped][8] sempre aggiornatissimo sulle novità di Google, ovviamente per l&#8217;italia [ci sono loro][9] che lo dico a fare <img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Come vedete Google è **una continua valanga di nuove features**, quasi impossibile stargli dietro, che rendono sempre più produttiva la nostra vita sul web. Se non lo seguite, vi consiglio di aggiungere al vostro feed reader [Blogoscoped][8] sempre aggiornatissimo sulle novità di Google, ovviamente per l&#8217;italia [ci sono loro][9] che lo dico a fare :-)
 
 *Domandina*: Dite che sarebbe interessante fare una rubrica settimanale &#8220;**Usare Gmail con efficacia**&#8221; ?
 
