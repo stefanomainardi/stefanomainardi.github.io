@@ -23,12 +23,12 @@ Alla continua di ricerca di nuove opportunità professionali e allargare il mio 
 
 Sentiti libero di metterti in contatto con me:
 
-Mobile: [+393895122611](tel://+393280952418)
-E-mail: [mainardistefano@gmail.com](mailto:mainardistefano@gmail.com)
-Skype: [mainardistefano](skype:mainardistefano?call)
-Twitter: [@stefanomainardi](https://www.twitter.com/stefanomainardi/)
-[Google+](https://plus.google.com/u/0/+StefanoMainardi)
-[Flickr](http://www.flickr.com/photos/mainardi/)
-[Instagram](http://instagram.com/stefanomainardi)
+* Mobile: [+393895122611](tel://+393280952418)
+* E-mail: [mainardistefano@gmail.com](mailto:mainardistefano@gmail.com)
+* Skype: [mainardistefano](skype:mainardistefano?call)
+* Twitter: [@stefanomainardi](https://www.twitter.com/stefanomainardi/)
+* [Google+](https://plus.google.com/u/0/+StefanoMainardi)
+* [Flickr](http://www.flickr.com/photos/mainardi/)
+* [Instagram](http://instagram.com/stefanomainardi)
 
 Per tutto il resto puoi leggere il mio curriculum online su [Linkedin](http://www.linkedin.com/in/mainardi)
