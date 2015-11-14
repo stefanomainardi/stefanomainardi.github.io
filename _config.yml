@@ -11,8 +11,8 @@ license:
   link:           'https://creativecommons.org/licenses/by-nc/3.0/'
   label:          'CC BY-NC'
 author:
-  name:           Stefano Mainardi
-  url:            http://stfanomainardi.github.io
+  name:          Stefano Mainardi
+  url:               http://stfanomainardi.github.io
   email:          mainardistefano@gmail.com
 
 # Custom vars
