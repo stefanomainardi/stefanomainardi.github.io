@@ -10,15 +10,11 @@ categories:
   - mobile
   - Tech
 ---
-[<img class="alignnone  wp-image-429" alt="Nexus 5" src="http://www.stefanomainardi.com/wp-content/uploads/2014/01/1002634_10151729885806244_1437550767_n.jpg" width="800" height="430" />][1]
+<img class="alignnone  wp-image-429" alt="Nexus 5" src="http://www.stefanomainardi.com/wp-content/uploads/2014/01/1002634_10151729885806244_1437550767_n.jpg" width="800" height="430" />
 
-<p class="lead drop-cap">
   Grazie a <a href="http://www.twinbit.it">Twinbit</a>, da circa un mese ho provveduto a fare lo switch verso Android, con un Nexus 5. Questo significa che al momento dell&#8217;arrivo del device ho messo in pensione l&#8217;ormai vetusto iPhone 4 e sono passato esclusivamente ad utilizzare il Nexus.
-</p>
 
 Era il terminale che aspettavo: potente, economico, design piuttosto curato ed un sistema ormai decisamente maturo. Mi ero preparato un po&#8217; alla nuova esperienza, utilizzando altri terminali Android e leggendo valanghe di recensioni su altri dispositivi, su [KitKat][2], e molto altro. Devo dire che da quando parlai di [Android nel 2007][3], le cose sono *leggermente* cambiate. Ammetto di non aver seguito negli anni in modo diretto le evoluzioni del sistema, mi sono sempre tenuto aggiornato da spettatore e giocherellando di tanto in tanto con device degli amici, e non sono mai rimasto affascinato o invogliato dal passare da iOS ad Android.
-
-<!--more-->
 
 Sono stato possessore del primo [iPod Touch][4] sempre nel 2007, che non faceva ancora nulla ma era decisamente futuristico, ha cambiato radicalmente il mio modo di approcciarmi al web in mobilità e ha dato il via ad una nuova era di device, inutile parlarne il resto è storia dei giorni nostri. Passiamo purtroppo oggi gran parte del nostro tempo con la testa china a [giocherellare con i nostri smartphone][5].Passando poi per i vari iPhone, e il primo iPad preso a San Francisco. Posso quindi dire di aver seguito con gusto ed in prima persona l&#8217;evoluzione di iOS e di tutto quel mondo.
 

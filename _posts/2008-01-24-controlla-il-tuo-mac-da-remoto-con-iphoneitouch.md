@@ -98,7 +98,7 @@ Come sempre **sono molto soddisfatto** delle applicazioni che stanno nascendo at
 
 Le famose **SDK** stanno arrivando, e con il nuovo **firmware 1.1.3** abbiamo avuto un assaggio, **assai costoso** e [indigesto][9], di come verranno acquistate le applicazioni prossime, **e certificate** da Apple, con Itunes. Spero che Apple lasci più spazio in futuro alle comunità di sviluppatori, i quali hanno creato dei Software in alcuni casi davvero al di sopra delle aspettative favorendone di conseguenza **le vendite**.
 
-*ps: Facciamo una colletta per il povero [**Gioxx**][10]? <img src="http://www.stefanomainardi.com/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" />*
+*ps: Facciamo una colletta per il povero [**Gioxx**][10]? :-)*
 
  [1]: http://it.wikipedia.org/wiki/Virtual_Network_Computing
  [2]: http://www.geekspiff.com/software/cotvnc/

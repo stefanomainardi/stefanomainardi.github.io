@@ -11,7 +11,8 @@ categories:
   - My Life
   - Senza categoria
 ---
-[][1][<img class="alignleft size-full wp-image-358" title="pinguini" src="http://www.stefanomainardi.com/wp-content/uploads/2010/12/pinguini1.png" alt="" width="595" height="189" />][2]  
+<img class="alignleft size-full wp-image-358" title="pinguini" src="http://www.stefanomainardi.com/wp-content/uploads/2010/12/pinguini1.png" alt="" width="595" height="189" />
+
 <small>Photo by <a href="http://www.flickr.com/photos/savatheaggie/2726967657/">SaveTheAggie</a></small>
 
 Torno a parlare di questi temi, dopo una lunga assenza, non perchè il mio interesse fosse svanito, solamente perchè gli impegni professionali mi hanno portato verso altre direzioni, specialmente in questi ultimi due anni, in cui [Twinbit][3] ha avuto il focus, e che continuerà comunque ad averlo.

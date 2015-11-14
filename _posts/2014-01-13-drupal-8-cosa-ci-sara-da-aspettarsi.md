@@ -8,20 +8,14 @@ dsq_thread_id:
 categories:
   - Tech
 ---
-[<img class="size-full wp-image-567 aligncenter" alt="Drupal8Tablet" src="http://www.stefanomainardi.com/wp-content/uploads/2014/01/Drupal8Tablet.jpg" width="620" height="412" />][1]
+<img class="size-full wp-image-567 aligncenter" alt="Drupal8Tablet" src="http://www.stefanomainardi.com/wp-content/uploads/2014/01/Drupal8Tablet.jpg" width="620" height="412" />
 
-<p style="text-align: center;">
-  <small>(Foto di <a href="http://drupal.org" target="_blank">Drupal.org</a>)</small>
-</p>
-
-<p class="lead drop-cap">
-  Per chi lavora nel settore, ma sopratutto chi usa questo strumento, sta aspettando con ansia il rilascio della <a href="https://drupal.org/drupal-8.0" target="_blank">nuova versione di Drupal</a>, che a tutti gli effetti sarà una vera rivoluzione sotto molti aspetti.
-</p>
+Per chi lavora nel settore, ma sopratutto chi usa questo strumento, sta aspettando con ansia il rilascio della <a href="https://drupal.org/drupal-8.0" target="_blank">nuova versione di Drupal</a>, che a tutti gli effetti sarà una vera rivoluzione sotto molti aspetti.
 
 Negli anni mi è capitato molte volte di imbattermi con colleghi che hanno sempre denigrato e visto con sospetto Drupal, a volte a ragione, molte volte a torto. L&#8217;evoluzione è un processo complicato, sopratutto quando da micro sistemi si diventa &#8220;macro&#8221;, quando le decisioni devono passare attraverso molti canali prima di essere prese, quando tecnicamente la codebase diventa onerosa e quando si decide negli anni di avere una retro-compatibilità.  
 Allo stato attuale Drupal è uno strumento molto potente, ma soffre di lacune lato architetturale tanto da rendere molto difficile avere delle strette best-practices di sviluppo, ad esempio il TDD. In Twinbit siamo riusciti ad avere un workflow completo che ci riesce a garantire affidabilità e testing, ma in molte occasioni ci siamo dovuti piegare allo strumento piuttosto che piegare lo strumento alle nostre esigenze.
 
-<!--more-->Con il nuovo rilascio previsto per la fine del 2014, le cose cambieranno in meglio, o almeno si spera. Molto del codice core legacy è diventato Object Oriented, molte funzioni custom sono state sostituite con componenti di terze parti, vedi l&#8217;introduzione di 
+Con il nuovo rilascio previsto per la fine del 2014, le cose cambieranno in meglio, o almeno si spera. Molto del codice core legacy è diventato Object Oriented, molte funzioni custom sono state sostituite con componenti di terze parti, vedi l&#8217;introduzione di 
 
 <a href="http://symfony.com/blog/symfony2-meets-drupal-8" target="_blank">Symfony</a>, <a href="http://twig.sensiolabs.org/" target="_blank">Twig</a> per il templating, <a href="http://backbonejs.org/" target="_blank">Backbone</a> e <a href="http://underscorejs.org/" target="_blank">Undercore.js</a> per il frontend, e per finire l&#8217;integrazione di <a href="http://phpunit.de/" target="_blank">PHPUnit</a>. Molti i miglioramenti anche per i site builder, ad esempio l&#8217;introduzione di temi responsive per il backend, e l&#8217;integrazione nativa di un editor WYSIWYG. Direi che finalmente abbiamo iniziato a giocare sul serio in diversi ambiti, portando lo strumento ad un nuovo livello.
 
@@ -43,7 +37,7 @@ Le caratteristiche promesse inizialmente e ad oggi attive sono:
 *   Editor WYSWYG integrato nel core, con integrazione nativa ai formati del testo. *Finalmente dopo anni, anche Drupal si fornisce di uno strumento indispensabile senza dover ricorrere a integrazioni esterne*
 *   <span style="line-height: 1.5em;">In-Place content editing. </span><em style="line-height: 1.5em;">Questa funzionalità è in realtà molto controversa, direi che è utile in pochi casi, sicuramente aiuta l&#8217;esperienza utente dell&#8217;editor nel momento in cui le modifiche da fare ai contenuti siano di piccola entità </em>
 
-[<img class="size-full wp-image-608 aligncenter" alt="in_place_editing" src="http://www.stefanomainardi.com/wp-content/uploads/2014/01/in_place_editing.png" width="772" height="317" />][3]
+<img class="size-full wp-image-608 aligncenter" alt="in_place_editing" src="http://www.stefanomainardi.com/wp-content/uploads/2014/01/in_place_editing.png" width="772" height="317" />
 
 <p style="text-align: center;">
   <span class="label">Drupal 8 In place content editing. Da frontend sarà possibile editare gli elementi presenti all&#8217;interno del contenuto </span>
@@ -51,7 +45,7 @@ Le caratteristiche promesse inizialmente e ad oggi attive sono:
 
 *   [Mobile preview tool][4]. *Un tool che permette attraverso una serie di configurazioni predefinite, ed altre configurabili, di testare in modalità preview il contenuto su diverse risoluzioni*
 
-[<img class="size-full wp-image-605 aligncenter" alt="Drupal 8 - Mobile preview tool" src="http://www.stefanomainardi.com/wp-content/uploads/2014/01/Drupal-8-Mobile-preview-tool.png" width="747" height="849" />][5]
+<img class="size-full wp-image-605 aligncenter" alt="Drupal 8 - Mobile preview tool" src="http://www.stefanomainardi.com/wp-content/uploads/2014/01/Drupal-8-Mobile-preview-tool.png" width="747" height="849" />
 
 <p style="text-align: center;">
    <span class="label">Mobile preview tool</span>
@@ -77,7 +71,7 @@ Le novità che ritengo più interessanti sono le seguenti.
 *   **Nuovi &#8220;Entity Types&#8221;**. Se sui sistemi Unix tutto è un file, su Drupal tutto è un nodo, o meglio una Entity. Finalmente anche i blocchi potranno essere &#8220;fieldable&#8221;, ovvero avremo la possibilità di aggiungere &#8220;fields&#8221; ai blocchi, rendendoli adatti alle nostre esigenze senza dover essere limitati dal titolo e un body. Anche la &#8220;contact form&#8221; di default eredita questa possibilità.
 *   **Possibilità di customizzare da backend la visualizzazione delle form**. Per intenderci, ad esempio potrò configurarmi il numero di rows da mostrare nella textarea della form commenti
 
-[<img class="alignnone size-full wp-image-581" alt="Screen Shot 2014-01-12 at 18.40.44 pm" src="http://www.stefanomainardi.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-12-at-18.40.44-pm.png" width="794" height="466" />][11]
+<img class="alignnone size-full wp-image-581" alt="Screen Shot 2014-01-12 at 18.40.44 pm" src="http://www.stefanomainardi.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-12-at-18.40.44-pm.png" width="794" height="466" />
 
 <p style="text-align: center;">
   <span class="label">Possibilità di customizzare da backend le caratteristiche delle form</span>
@@ -110,29 +104,6 @@ Probabilmente uno degli aspetti più interessanti, ma più impegnativi, sarà il
 
 Un piccolo esempio di come sarà strutturato il classico template del nodo per mostrarvene la leggibilità che è praticamente autoesplicativa se confrontata con i *vecchi modelli. Il codice mostrato è il template &#8220;node&#8221; del tema Bartik fornito con Drupal 8:*
 
-<pre class="font-size:14 lang:default decode:true">&lt;article id="node-{{ node.id }}" class="{{ attributes.class }} clearfix"{{ attributes }}&gt;
-
-  {{ title_prefix }}
-    &lt;h2{{ title_attributes }}&gt;
-      &lt;a href="{{ node_url }}" rel="bookmark"&gt;{{ label }}&lt;/a&gt;
-    &lt;/h2&gt;
-  {{ title_suffix }}
-
-  {% if display_submitted %}
-    &lt;footer&gt;
-      {{ user_picture }}
-      &lt;p class="submitted"&gt;{{ submitted }}&lt;/p&gt;
-    &lt;/footer&gt;
-  {% endif %}
-
-  &lt;div{{ content_attributes }}&gt;
-    {# We hide links now so that we can render them later. #}
-    {{ content }}
-  &lt;/div&gt;
-
-  {{ content.links }}
-
-&lt;/article&gt;</pre>
 
 Chi si è trovato a lavorare con template Drupal, sono certo che migliorerà profondamente il workflow lavorativo.  
 Dedicherò un post ad-hoc su Twig nei prossimi giorni per mostrarvene le potenzialità, credo ne valga assolutamente la pena.
