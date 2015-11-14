@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Home
+title: About
 ---
 
 ![Stefano Mainardi]({{ site.baseurl }}/assets/1012241_10151520906541244_305156698_n.jpg)
 
 ### Chi sono?
 
-Ciao sono Stefano Mainardi, sono il fondatore e presidente dell[‘associazione ILDN](http://associazione.ildn.net/), co-fondatore di [Twinbit](http://www.twinbit.it/) ed oggi di [SparkFabrik](http://www.sparkfabrik.com), e ho la grande fortuna di avere un [clone](http://www.paolomainardi.com).
+Ciao, sono Stefano Mainardi, sono il fondatore e presidente dell[‘associazione ILDN](http://associazione.ildn.net/), co-fondatore di [Twinbit](http://www.twinbit.it/) ed oggi di [SparkFabrik](http://www.sparkfabrik.com), e ho la grande fortuna di avere un [clone](http://www.paolomainardi.com).
 
 ### Di cosa mi occupo?
 
 Mi occupo e mi interesso professionalmente di digital business, innovazione e tecnologie web. Nel tempo libero mi diverto a scrivere in questo [blog]({{ site.baseurl }}/blog/ "BLOG"), scattare [foto](http://www.flickr.com/photos/mainardi/), ascoltare musica live, cucinare e viaggiare
 
-Amo la programmazione Web, mi sono specializzato in **PHP** nei suoi più svariati framework, con le mia aziende sto concentrando gli nostri sforzi per promuovere Drupal tra le aziende italiane.
+Amo la programmazione Web, mi sono specializzato in **php** nei suoi più svariati framework, con le mia aziende sto concentrando gli nostri sforzi per promuovere Drupal tra le aziende italiane.
 
 Partecipo attivamente alle conferenze in Italia, in Europa e quando posso nel resto del mondo, sia come speaker che come semplice partecipante. A volte mi piace vestire i panni [dell'organizzatore](http://www.drupalday.it).
 

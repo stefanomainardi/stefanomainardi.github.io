@@ -3,7 +3,7 @@ markdown:         redcarpet
 
 # Setup
 title:            Stefano Mainardi
-tagline:        Digital innovation
+tagline:       Digital innovation
 url:              'http://stefanomainardi.github.io'
 permalink:        '/:year/:month/:title'
 
