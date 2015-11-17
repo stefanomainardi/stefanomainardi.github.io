@@ -13,7 +13,7 @@ Ciao, sono Stefano Mainardi, sono il fondatore e presidente dell[‘associazione
 
 Mi occupo e mi interesso professionalmente di digital business, innovazione e tecnologie web. Nel tempo libero mi diverto a scrivere in questo [blog]({{ site.baseurl }}/blog/ "BLOG"), scattare [foto](http://www.flickr.com/photos/mainardi/), ascoltare musica live, cucinare e quando posso viaggiare.
 
-Amo la programmazione Web, nella mia attività quotidiana mi occupo di strategia e processi aziendali, da diversi anni mi occupo di promuovere tecnologie Open Source tra le aziende italiane.
+Amo la programmazione Web, nella mia attività quotidiana mi occupo di strategia aziendale, gestione dei progetti e relazioni con partner e clienti. Da diversi anni mi occupo di promuovere tecnologie Open Source tra le aziende italiane.
 
 Partecipo attivamente alle conferenze in Italia, in Europa e quando posso nel resto del mondo, sia come speaker che come partecipante. A volte mi piace vestire i panni [dell'organizzatore](http://www.drupalday.it).
 
