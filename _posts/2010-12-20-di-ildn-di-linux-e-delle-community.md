@@ -13,8 +13,6 @@ categories:
 ---
 <img class="alignleft size-full wp-image-358" title="pinguini" src="http://www.stefanomainardi.com/wp-content/uploads/2010/12/pinguini1.png" alt="" width="595" height="189" />
 
-<small>Photo by <a href="http://www.flickr.com/photos/savatheaggie/2726967657/">SaveTheAggie</a></small>
-
 Torno a parlare di questi temi, dopo una lunga assenza, non perchè il mio interesse fosse svanito, solamente perchè gli impegni professionali mi hanno portato verso altre direzioni, specialmente in questi ultimi due anni, in cui [Twinbit][3] ha avuto il focus, e che continuerà comunque ad averlo.
 
 Come qualcuno di voi sà, nel 2004, insieme a mio fratello <a href="http://paolomainardi.com" target="_blank">Paolo</a>, fondammo <a href="http://www.ildn.net" target="_blank">ILDN</a>, un network di portali e community dedicati a Linux, diventata poi un Associazione per dare più struttura al progetto. Quest&#8217;ultima purtroppo non ebbe mai lo slancio che ci eravamo prefissati inizialmente, purtroppo quando si lavora su realtà molto distribuite e dislocate far funzionare le cose solamente con i classici mezzi telematici è molto più problematico di quanto si possa pensare. Ma negli anni diversi rapporti di **stima e di fiducia** si sono creati e consolidati, anche grazie ad alcuni <a href="http://www.ildn.net/eventi" target="_blank">eventi</a> che abbiamo organizzato o a cui abbiamo partecipato insieme, lo ritengo il valore più grande che un Associazione possa creare. Certo, quel valore andrebbe poi trasmesso anche all&#8217;esterno.

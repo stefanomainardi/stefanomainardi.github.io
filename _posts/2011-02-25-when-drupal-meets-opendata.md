@@ -14,9 +14,7 @@ tags:
   - php
   - phpday
 ---
-<p style="text-align: center;">
   <img class="aligncenter" title="drupal_opendata" src="http://www.stefanomainardi.com/wp-content/uploads/2011/02/drupal_opendata.png" alt="" width="429" height="217" />
-</p>
 
 Anche quest&#8217;anno saremo relatori al [Phpday 2011][1] di Verona. Come di consueto, *e come ci piace*, terremo un talk su Drupal, trattando questa volta il vasto ed interessantissimo campo degli OpenData. Stiamo attualmente facendo diversi [esperimenti][2], in diversi ambiti sia per lavoro, sia &#8220;for fun&#8221;.
 

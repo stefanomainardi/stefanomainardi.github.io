@@ -1,21 +1,21 @@
 # Dependencies
-markdown:         redcarpet
+markdown:  redcarpet
 
 # Setup
-title:            Stefano Mainardi
-tagline:       Digital innovation
-url:              'http://stefanomainardi.github.io'
-permalink:        '/:year/:month/:title'
+title:             Stefano Mainardi
+tagline:        Digital innovation
+url:              'http://www.stefanomainardi.com'
+permalink:   '/:year/:month/:title'
 
 license:
   link:           'https://creativecommons.org/licenses/by-nc/3.0/'
-  label:          'CC BY-NC'
+  label:         'CC BY-NC'
 author:
-  name:          Stefano Mainardi
-  url:               http://stfanomainardi.github.io
-  email:          mainardistefano@gmail.com
+  name:        Stefano Mainardi
+  url:             http://www.stefanomainardi.com
+  email:        mainardistefano@gmail.com
 
 # Custom vars
-version:          0.0.1
+version:        0.0.1
 github:
-  repo:           https://github.com/stefanomainardi/stefanomainardi.github.io/
+  repo:         https://github.com/stefanomainardi/stefanomainardi.github.io/

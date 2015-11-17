@@ -14,7 +14,6 @@ categories:
   - ILDN
   - Informatica
 ---
-<p><img alt="LugConference" title="LugConference" src="http://img162.imageshack.us/img162/4629/lconf20dx.jpg" /></p>
 <p>Purtroppo non siamo potuti essere presenti come ILDN all&#8217;ormai passato LugConference, un pò per l&#8217;organizzazione troppo restrittiva (ci si poteva presentare solamente in due, e senza eccezioni minime), un pò per i nostri impegni che ci hanno distolto dal partecipare a questo evento. Sarà per la prossima, spero almeno sia stato un momento per unire le varie comunità italiane.<br />
 Nel frattempo <a title="Linux World Summit" href="http://associazione.ildn.net/index.php/LinuxWorldExpo2006">ci si organizza</a> per il prossimo <a title="Linux World Summit ILDN" href="http://www.linuxworldsummit.it/showPage.php?id=121&#038;template=evento">LinuxWorldSummit</a> a Milano il prossimo Maggio, dove avremo uno stand tutto nostro e sarà la prima uscita ufficiale come Associazione.</p>
 <p>Anche se in realtà siamo collaudati in questo campo, difatti l&#8217;anno scorso siamo stati all&#8217;ex LinuxWorldExpo sempre con un nostro stand. <a target="_blank" title="Foto Linux World Expo 2005" href="http://www.ildn.net/modules/myalbum/viewcat.php?cid=1">Qui</a> un breve reportage fotografico. L&#8217;evento fu fantastico sia dal lato umano che dal lato puramente tecnico. Spero quest&#8217;anno si crei di nuovo lo stesso feeling dell&#8217;anno scorso, ma ne sono sicuro.</p>
