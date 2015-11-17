@@ -11,3 +11,22 @@
     padding-bottom: 3em !important;
     margin-bottom: 0em !important;
 }
+
+.menu {
+    float: right;
+}
+
+.menu a {
+    color: #000;
+    text-decoration: none;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    padding-left: 10px;
+}
+
+.masthead {
+    padding-bottom: 2rem !important;
+}
+
+.masthead-title {
+    float: left !important;
+}
