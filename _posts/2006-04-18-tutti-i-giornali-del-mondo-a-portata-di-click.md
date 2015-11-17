@@ -15,8 +15,6 @@ categories:
   - All the rest
   - Informatica
 ---
-![Pressdisplay][1]
-
 Vi segnalo un&#8217;[interessantissimo servizio][2] che permette di avere a portata di mano ben **250 **quotidiani mondiali da più di **55 **nazioni.
 
 L&#8217;interfaccia è molto simile a [Google Maps][3] , una volta aperto un giornale è possibile sfogliarlo come se lo avessimo in mano, l&#8217;interfaccia è in Ajax (ovviamente) in pieno spirito Web 2.0.

@@ -18,7 +18,6 @@ categories:
   - Informatica
   - 'Linux &amp; Co.'
 ---
-<img src="http://www.radiolinux.info/graphics/radiolinux.gif" title="Radiolinux" alt="Radiolinux" height="68" width="386" />
 
 È una puntata che sarebbe dovuta andare in onda, sulle frequenze di [Radiolinux][1] si tratta di una rubrica che dovrei tenere sulle novità delle distribuzioni Linux, in veste di Presidente dell&#8217;[Associazione ILDN][2]
 
