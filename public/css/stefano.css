@@ -6,3 +6,5 @@
     list-style: none;
     padding-bottom: 25px;
 }
+
+.page, .post {padding-bottom: 3em !important;}
