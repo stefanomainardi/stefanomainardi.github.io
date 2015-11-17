@@ -7,17 +7,17 @@ title: Home
 
 ### Chi sono?
 
-Ciao, sono Stefano Mainardi, sono il fondatore e presidente dell[‘associazione ILDN](http://associazione.ildn.net/), co-fondatore di [Twinbit](http://www.twinbit.it/) ed oggi di [SparkFabrik](http://www.sparkfabrik.com), e ho la grande fortuna di avere un [clone](http://www.twitter.com/paolomainardi).
+Ciao, sono Stefano Mainardi, sono il fondatore e presidente dell[‘associazione ILDN](http://associazione.ildn.net/), co-fondatore prima di [Twinbit](http://www.twinbit.it/) ed oggi di [SparkFabrik](http://www.sparkfabrik.com) in cui ricopro il ruolo di **CEO**. Ho la grande fortuna di avere un [clone](http://www.twitter.com/paolomainardi).
 
 ### Di cosa mi occupo?
 
-Mi occupo e mi interesso professionalmente di digital business, innovazione e tecnologie web. Nel tempo libero mi diverto a scrivere in questo [blog]({{ site.baseurl }}/blog/ "BLOG"), scattare [foto](http://www.flickr.com/photos/mainardi/), ascoltare musica live, cucinare e viaggiare
+Mi occupo e mi interesso professionalmente di digital business, innovazione e tecnologie web. Nel tempo libero mi diverto a scrivere in questo [blog]({{ site.baseurl }}/blog/ "BLOG"), scattare [foto](http://www.flickr.com/photos/mainardi/), ascoltare musica live, cucinare e quando posso viaggiare.
 
-Amo la programmazione Web, mi sono specializzato in **php** nei suoi più svariati framework, con le mia aziende sto concentrando gli nostri sforzi per promuovere Drupal tra le aziende italiane.
+Amo la programmazione Web, nella mia attività quotidiana mi occupo di strategia e processi aziendali, da diversi anni mi occupo di promuovere tecnologie Open Source tra le aziende italiane.
 
-Partecipo attivamente alle conferenze in Italia, in Europa e quando posso nel resto del mondo, sia come speaker che come semplice partecipante. A volte mi piace vestire i panni [dell'organizzatore](http://www.drupalday.it).
+Partecipo attivamente alle conferenze in Italia, in Europa e quando posso nel resto del mondo, sia come speaker che come partecipante. A volte mi piace vestire i panni [dell'organizzatore](http://www.drupalday.it).
 
-Alla continua di ricerca di nuove opportunità professionali e allargare il mio network di conoscenze, credo fortemente nello scambio come fattore di crescita umano e professionale.
+Alla continua di ricerca di nuove opportunità professionali e di allargare il mio network di conoscenze, credo fortemente nello scambio come fattore di crescita umano e professionale.
 
 ### Contattami
 
