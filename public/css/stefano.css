@@ -7,4 +7,7 @@
     padding-bottom: 25px;
 }
 
-.page, .post {padding-bottom: 3em !important;}
+.page, .post {
+    padding-bottom: 3em !important;
+    margin-bottom: 0em !important;
+}

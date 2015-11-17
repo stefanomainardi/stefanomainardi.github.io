@@ -6,6 +6,8 @@ title:             Stefano Mainardi
 tagline:        Digital innovation
 url:              'http://www.stefanomainardi.com'
 permalink:   '/:year/:month/:title'
+paginate:     5
+paginate_path: "/blog/page:num/"
 
 license:
   link:           'https://creativecommons.org/licenses/by-nc/3.0/'
@@ -14,8 +16,11 @@ author:
   name:        Stefano Mainardi
   url:             http://www.stefanomainardi.com
   email:        mainardistefano@gmail.com
+  twitter:       http:/twitter.com/stefanomainardi
 
 # Custom vars
 version:        0.0.1
 github:
   repo:         https://github.com/stefanomainardi/stefanomainardi.github.io/
+
+gems: [jekyll-paginate, jekyll-gist]

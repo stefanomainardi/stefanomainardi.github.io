@@ -1,0 +1,44 @@
+---
+layout: page
+title: Blog
+---
+
+<div class="posts homepage">
+  {% for post in paginator.posts %}
+  <div class="post">
+    {% if post.layout == "link" %}
+      <h2 class="post-title post-title-link">
+        <a href="{{ post.origlink }}">
+          {{ post.title }}
+        </a>
+        — <a href="{{ post.url }}"><i class="fa fa-link"></i></a>
+      </h2>
+    {% else %}
+      <h2 class="post-title">
+        <a href="{{ post.url }}">
+          {{ post.title }}
+        </a>
+      </h2>
+      <span class="post-date">{{ post.date | date_to_string }}</span>
+    {% endif %}
+
+    {{ post.excerpt }}
+  </div>
+  <div class="post-closure">
+    <i class="closure-icon fa fa-paper-plane-o"></i>
+  </div>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="pagination-item older">Previous</a>
+  {% else %}
+    <span class="pagination-item older">Previous</span>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="pagination-item newer">Next</a>
+  {% else %}
+    <span class="pagination-item newer">Next</span>
+  {% endif %}
+</div>
