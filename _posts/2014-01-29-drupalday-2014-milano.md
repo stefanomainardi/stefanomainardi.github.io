@@ -10,6 +10,7 @@ categories:
   - Tech
 tags:
   - drupal
+description: DrupalDay 2014 a Milano, organizzato da Twinbit
 ---
 Come avevo scritto qualche giorno fa, alla fine di quest&#8217;anno verrà rilasciata l&#8217;attesissima [nuova release di Drupal][1], e per celebrare questo nuovo rilascio abbiamo deciso che quest&#8217;anno **non poteva mancare un evento** che raccogliesse la comunità, gli interessati e le nuove leve che vogliono iniziare a conoscere questo strumento. Cercheremo ovviamente di coinvolgere, come di consueto, **le aziende** e le **pubbliche amministrazioni** che utilizzano Drupal per portare **case-studies di interesse** all&#8217;attenzione di tutti.
 
