@@ -7,7 +7,7 @@ title: Home
 
 ### Chi sono?
 
-Ciao, sono Stefano Mainardi, sono il fondatore e presidente dell[‘associazione ILDN](http://associazione.ildn.net/), co-fondatore di [Twinbit](http://www.twinbit.it/) ed oggi di [SparkFabrik](http://www.sparkfabrik.com), e ho la grande fortuna di avere un [clone](http://www.paolomainardi.com).
+Ciao, sono Stefano Mainardi, sono il fondatore e presidente dell[‘associazione ILDN](http://associazione.ildn.net/), co-fondatore di [Twinbit](http://www.twinbit.it/) ed oggi di [SparkFabrik](http://www.sparkfabrik.com), e ho la grande fortuna di avere un [clone](http://www.twitter.com/paolomainardi).
 
 ### Di cosa mi occupo?
 
