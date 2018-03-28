@@ -3,7 +3,7 @@ markdown:  redcarpet
 
 # Setup
 title:             Stefano Mainardi
-tagline:        Digital innovation
+tagline:        CEO SparkFabrik
 url:              'http://www.stefanomainardi.com'
 permalink:   '/:year/:month/:title'
 paginate:     5
