@@ -23,7 +23,7 @@ Alla continua di ricerca di nuove opportunità professionali e di allargare il m
 
 Sentiti libero di metterti in contatto con me:
 
-* Mobile: [+393895122611](tel://+393280952418)
+* Mobile: [+393895122611](tel://+393895122611)
 * E-mail: [mainardistefano@gmail.com](mailto:mainardistefano@gmail.com)
 * Skype: [mainardistefano](skype:mainardistefano?call)
 * Twitter: [@stefanomainardi](https://www.twitter.com/stefanomainardi/)
